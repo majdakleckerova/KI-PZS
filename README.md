@@ -1,1 +1,2 @@
-# Po-ta-ov-zpracov-n-sign-lu
+# KI/PZS
+## Počítačové zpracování signálu
